@@ -2,9 +2,9 @@
 # To implement this method, you will need loop over the provided array and compare each value in the array to the value provided. Remember though, that this is not the value that needs to be returned
 
 def find_element_index(array, value_to_find)
-  array.length.times { | index |
+  # array.length.times { | index |
     array.index("value_to_find")
-  }
+  # }
 end
 
 def find_max_value(array)
