@@ -5,6 +5,7 @@ def find_element_index(array, value_to_find)
     array.index(value_to_find)
 end
 
+# This methods should return whichever integer in the array has the highest value
 def find_max_value(array)
   array.max
 end
